@@ -21,7 +21,7 @@ Install the software to your local system using GitHub clone
 * Write git clone and paste the URl
 
 ```bash
-  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  $ git clone https://github.com/tylerbeckb/Python-Project
 ```
 
 ## CW1
